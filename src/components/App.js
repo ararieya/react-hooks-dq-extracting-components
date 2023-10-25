@@ -1,5 +1,7 @@
 import React from "react";
-import { messages, contacts } from "../data";
+import contacts from "./Contacts";
+import messages from "./Messages";
+
 
 console.log("Messages:", messages);
 console.log("Contacts:", contacts);
